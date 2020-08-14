@@ -7,7 +7,7 @@ I'm,  Arturo a passionate about data science and machine learning.
 I like create projects about machine learning and data science with different data. All my projects are create in python and R.
 
 ![](https://tomaztsql.files.wordpress.com/2018/01/2018-01-28-15_15_13-edit-post-e280b9-tomaztsql-e28094-wordpress-com.png)
-##REACT.js
+## REACT.js
 
 <!--
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
