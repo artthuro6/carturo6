@@ -6,8 +6,46 @@ I'm,  Arturo a passionate about data science and machine learning.
 
 I like create projects about machine learning and data science with different data. All my projects are create in python and R.
 
-![](https://tomaztsql.files.wordpress.com/2018/01/2018-01-28-15_15_13-edit-post-e280b9-tomaztsql-e28094-wordpress-com.png)
-## REACT.js
+# Machine Learning & Deep Learning.
+![](http://www.finalhints.com/wp-content/uploads/2016/01/opengraph-icon-200x200.png)
+
+##### Im use Python to next skills.
+-	Machine Learning
+-	Deep Learning
+-	Web Scraping
+-	Data Science
+
+![](https://img.shields.io/badge/Pandas-Analysis-red)  ![](https://img.shields.io/badge/Tensorflow-DeepLearning-yellow)  ![](https://img.shields.io/badge/Matplotlib-MachineLearning-green) ![](https://img.shields.io/badge/Pytorch-DeepLearning-red) ![](https://img.shields.io/badge/Numpy-MachineLearning-gree)  ![](https://img.shields.io/badge/Scipy-MachineLearning-orange) ![](https://img.shields.io/badge/Scikitlearn-MachineLearning-blue) 
+
+
+# Mobile
+![](https://miguelrincon.co/img/posts/flutter-web-developers/flutter-logo-img.jpg)
+
+##### Im use Fluttter to next skills.
+-	Mobile development.
+
+![](https://img.shields.io/badge/Dart-Mobile-blue) ![](https://img.shields.io/badge/Flutter-Mobile-blue) ![](https://img.shields.io/badge/Kotlin-Mobile-red)
+
+
+# Web
+![](https://lucasbiason.github.io/images/logos/django-min.png)
+##### Im use Django to next skills.
+-	Web development
+
+![](https://img.shields.io/badge/Html-Web-orange) ![](https://img.shields.io/badge/CSS-Web-blue) ![](https://img.shields.io/badge/Javascript-Web-yellow) ![](https://img.shields.io/badge/Bootstrap-Web-lightgrey)
+
+
+# API
+![](https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png)
+##### Im use Flask to next skills.
+-	Web development.
+-	Create API.
+
+![](https://img.shields.io/badge/Html-Web-orange) ![](https://img.shields.io/badge/CSS-Web-blue) ![](https://img.shields.io/badge/Javascript-Web-yellow) ![](https://img.shields.io/badge/Bootstrap-Web-lightgrey)
+
+
+
+
 
 <!--
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
