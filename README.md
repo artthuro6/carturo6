@@ -18,14 +18,6 @@ I like create projects about machine learning and data science with different da
 ![](https://img.shields.io/badge/Pandas-Analysis-red)  ![](https://img.shields.io/badge/Tensorflow-DeepLearning-yellow)  ![](https://img.shields.io/badge/Matplotlib-MachineLearning-green) ![](https://img.shields.io/badge/Pytorch-DeepLearning-red) ![](https://img.shields.io/badge/Numpy-MachineLearning-gree)  ![](https://img.shields.io/badge/Scipy-MachineLearning-orange) ![](https://img.shields.io/badge/Scikitlearn-MachineLearning-blue) 
 
 
-# Mobile
-![](https://miguelrincon.co/img/posts/flutter-web-developers/flutter-logo-img.jpg)
-
-##### Im use Fluttter to next skills.
--	Mobile development.
-
-![](https://img.shields.io/badge/Dart-Mobile-blue) ![](https://img.shields.io/badge/Flutter-Mobile-blue) ![](https://img.shields.io/badge/Kotlin-Mobile-red)
-
 
 # Web
 ![](https://lucasbiason.github.io/images/logos/django-min.png)
